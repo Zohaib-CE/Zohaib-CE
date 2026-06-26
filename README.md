@@ -9,7 +9,7 @@
 *Building complete embedded solutions — from schematic & PCB layout to firmware development and MATLAB-based signal processing*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mzohaibnaeem)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zohaibnaeem501@gmail.com)
 
 </div>
 
