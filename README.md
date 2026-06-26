@@ -2,7 +2,7 @@
 
 # Muhammad Zohaib Naeem
 
-### 🔧 Embedded Firmware Engineer · PCB Designer · MATLAB Developer
+###   Embedded Firmware Engineer · PCB Designer · MATLAB Developer
 
 **Computer Engineering Undergraduate — Final Year | Pakistan**
 
@@ -15,25 +15,25 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 **Final Year Computer Engineering Undergraduate** — Pakistan
 - 🔧 Passionate about **Embedded Firmware**, **PCB Design**, and **Signal Processing**
-- 🌱 Currently deepening expertise in **STM32 Bare-Metal**, **FreeRTOS**, and **ESP32 IoT**
+- 🌱 Currently deepening expertise in **PIC & STM 32**, **FreeRTOS**, and **ESP32 IoT**
 - 🎯 Goal: Industry-ready **Embedded Firmware Engineer** — hardware to software, end to end
-- 💬 Ask me about **Embedded C**, **Altium Designer**, **MATLAB DSP**, or **Microcontrollers**
+- 💬 Ask me about **Embedded C**, **MATLAB Image Processingr**, **MATLAB DSP**, or **Microcontrollers**
 - 📫 Open to **Embedded Systems Internships & Entry-Level Roles — 2026**
 
 ---
 
-## 🚀 2026 Engineering Roadmap
+##  2026 Engineering Roadmap
 
 | Status | Milestone |
 |:------:|-----------|
-| ✅ | Embedded C / C++ |
-| ✅ | MATLAB & Simulink |
-| ✅ | Altium Designer — PCB Layout & Schematic |
+| ✅ | MATLAB Signal & Image Processing |
 | ✅ | PIC18F452 · Arduino · ESP32 |
+| ✅ | Altium Designer — PCB Layout & Schematic |
+| ✅ | Embedded C / C++ |
 | ✅ | UART · SPI · I2C · GPIO Protocols |
 | 🔄 | STM32 Bare-Metal Peripheral Drivers |
 | 🔄 | FreeRTOS — Real-Time Operating System |
@@ -44,7 +44,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -85,9 +85,9 @@
 
 ---
 
-## 📌 Featured Engineering Projects
+##  Featured Engineering Projects
 
-> 🚧 Actively building and documenting — repositories going live soon!
+>
 
 | Project | Stack | Description |
 |---------|-------|-------------|
@@ -99,7 +99,7 @@
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 - **Altium PCB Design Course** — Altium Academy (2025)
 - **Introduction to Embedded Systems and Hardware Architecture** — Coursera (2025)
@@ -108,7 +108,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
