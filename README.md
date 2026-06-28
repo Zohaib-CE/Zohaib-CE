@@ -17,12 +17,13 @@
 
 ##  About Me
 
-- 🎓 **Final Year Computer Engineering Undergraduate** — Pakistan
-- 🔧 Passionate about **Embedded Firmware**, **PCB Design**, and **Signal Processing**
-- 🌱 Currently deepening expertise in **PIC & STM 32**, **FreeRTOS**, and **ESP32 IoT**
+- 🎓 **Final Year Computer Engineering Undergraduate** - Pakistan
+- 🔧 Interested in designing complete embedded systems, from **PCB design and schematic development** to **Embedded firmware** and **MATLAB-based signal processing**.
+-  Passionate about **Embedded Firmware**, **PCB Design**, and **Signal Processing**
+- 🌱 Currently expanding my expertise in **PIC & STM 32**,**FreeRTOS**, and **ESP32 & IoT Systems**
 - 🎯 Goal: Industry-ready **Embedded Firmware Engineer** — hardware to software, end to end
-- 💬 Ask me about **Embedded C**, **MATLAB Image Processingr**, **MATLAB DSP**, or **Microcontrollers**
-- 📫 Open to **Embedded Systems Internships & Entry-Level Roles — 2026**
+- 💬 Ask me about **Embedded C, Microcontrollers, MATLAB Image Processing, MATLAB Digital Signal Processing, PCB Design, and Embedded Systems**
+- 📫 Open to **Embedded Systems Internships, Firmware Development Opportunities,** and **MATLAB-based Freelance Projects**.
 
 ---
 
